@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+
+:root {
+  --text-color: rgba(24, 24, 24, 1);
+  --main-text-color: rgba(3, 3, 3, 1);
+  --secundary-text-color: rgba(99, 99, 100, 1);
+  --button-color: rgba(234, 69, 76, 1);
+  --bdoy-color: rgba(248, 248, 248, 1);
+
+}
